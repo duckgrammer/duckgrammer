@@ -1,7 +1,7 @@
 # Hi, I'm Duckgrammer 👋
-My name is (Panda) Umphaipun Atipunumphai. I'm a Senior at Vanderbilt University studying CS 🇺🇸, Developer 👾, and Part-time Influencer ✨.
+My name is (Panda) Umphaipun Atipunumphai. I'm a Senior at Vanderbilt University studying CS 🇺🇸, Software Developer 👾, and Part-time Influencer 👍.
 
-https://www.duckgrammer.com <- My peronsal portfolio
+https://www.duckgrammer.com << ✨My Peronsal Portfolio✨
 <br>
 <br>
 <a href="https://www.facebook.com/Duckgrammer/" target="_blank">
@@ -13,7 +13,6 @@ https://www.duckgrammer.com <- My peronsal portfolio
 <a href="https://www.tiktok.com/@duckgrammerai" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="32"/>
 </a>
-<br>
 <br>
 
 ## Latest Blogs
