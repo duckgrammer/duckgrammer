@@ -18,8 +18,8 @@ https://www.duckgrammer.com << ✨My Peronsal Portfolio✨
 ## Latest Blogs
 <ul>
   <li>
-    😎 <a href="https://the-black-box.ghost.io/amazon-internship-2022/"><b>Amazon Intern Offer 2022</b></a><br/>
-    <i>A complete walkthrough of my preperation and interview experience</i>
+    😎 <a href="https://the-black-box.ghost.io/amazon-internship-2022/"><b>FAANG Intern Offer 2022</b></a><br/>
+    <i>A complete walkthrough of my preparation and interview experience</i>
   </li>
   <li>
     🚗 <a href="https://the-black-box.ghost.io/the-self-driving-car/"><b>The Self-Driving Car Dilemma</b></a><br/>
